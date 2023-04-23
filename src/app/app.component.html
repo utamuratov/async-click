@@ -1,0 +1,7 @@
+<h1>NGX ASYNC CLICK</h1>
+<button [ngxAsyncClick]="clickWithoutArguments.bind(this)">
+  Click me (without arguments)
+</button>
+<button [ngxAsyncClick]="clickWithoutArguments.bind(this, 'test')">
+  Click me (with arguments)
+</button>
