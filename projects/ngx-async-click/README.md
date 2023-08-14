@@ -4,6 +4,13 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 This directive prevents multiple clicks by condition.
 [DEMO](https://stackblitz.com/edit/angular-zxiphu?file=src/main.ts)
 
+## Versions
+
+| Angular    |          Installation          | Version |
+| :--------- | :----------------------------: | :-----: |
+| Angular 16 |  npm i --save ngx-async-click  |  2.x.x  |
+| Angular 15 | npm i --save ngx-async-click@1 |  1.x.x  |
+
 ## Installation
 
 Use this following command to install:
