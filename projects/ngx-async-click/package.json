@@ -1,6 +1,6 @@
 {
   "name": "ngx-async-click",
-  "version": "2.0.1",
+  "version": "2.1.1",
   "description": "Async click - preventing multiple clicks by condition (e.g. waiting for coming back a response from the backend)",
   "author": {
     "name": "Odilbek Utamuratov",
@@ -18,6 +18,8 @@
   "homepage": "https://github.com/utamuratov/async-click#readme",
   "keywords": [
     "angular",
+    "angular 15",
+    "angular 16",
     "async-click",
     "async",
     "click",
@@ -26,8 +28,8 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "@angular/common": "^16.2.0",
-    "@angular/core": "^16.2.0"
+    "@angular/common": ">=15.0.0",
+    "@angular/core": ">=15.0.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"
